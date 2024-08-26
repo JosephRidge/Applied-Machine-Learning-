@@ -1,0 +1,15 @@
+# Core libraries
+numpy>=1.24.4
+pandas>=2.1.0
+scipy>=1.11.1
+
+# Data visualization
+matplotlib>=3.7.3
+seaborn>=0.12. 
+
+# # Machine Learning
+# scikit-learn==1.4.2
+# xgboost==1.7.7
+# lightgbm==4.1.0
+# catboost==1.2
+ 
